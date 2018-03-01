@@ -15,7 +15,7 @@
 		BA26AE232036E8F100F32222 /* SpriteKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BA26AE222036E8F100F32222 /* SpriteKit.framework */; };
 		BA26AE292036EFA500F32222 /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA26AE282036EFA500F32222 /* GameScene.swift */; };
 		BAE76744204408C3005E93EA /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BAE76743204408C3005E93EA /* AudioToolbox.framework */; };
-		BAE7674620440B57005E93EA /* shot1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BAE7674520440B57005E93EA /* shot1.mp3 */; };
+		BAE7674820483AA5005E93EA /* shot1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BAE7674720483AA5005E93EA /* shot1.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,7 +29,7 @@
 		BA26AE222036E8F100F32222 /* SpriteKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SpriteKit.framework; path = System/Library/Frameworks/SpriteKit.framework; sourceTree = SDKROOT; };
 		BA26AE282036EFA500F32222 /* GameScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
 		BAE76743204408C3005E93EA /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
-		BAE7674520440B57005E93EA /* shot1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = shot1.mp3; path = ../../../../Downloads/shot1.mp3; sourceTree = "<group>"; };
+		BAE7674720483AA5005E93EA /* shot1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = shot1.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,8 +69,8 @@
 				BA26AE112036E84F00F32222 /* ViewController.swift */,
 				BA26AE282036EFA500F32222 /* GameScene.swift */,
 				BA26AE132036E84F00F32222 /* Main.storyboard */,
-				BAE7674520440B57005E93EA /* shot1.mp3 */,
 				BA26AE162036E84F00F32222 /* Assets.xcassets */,
+				BAE7674720483AA5005E93EA /* shot1.mp3 */,
 				BA26AE182036E84F00F32222 /* LaunchScreen.storyboard */,
 				BA26AE1B2036E84F00F32222 /* Info.plist */,
 			);
@@ -147,7 +147,7 @@
 			files = (
 				BA26AE1A2036E84F00F32222 /* LaunchScreen.storyboard in Resources */,
 				BA26AE172036E84F00F32222 /* Assets.xcassets in Resources */,
-				BAE7674620440B57005E93EA /* shot1.mp3 in Resources */,
+				BAE7674820483AA5005E93EA /* shot1.mp3 in Resources */,
 				BA26AE152036E84F00F32222 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
